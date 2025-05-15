@@ -1,3 +1,3 @@
 # SiloTech
 
-o site utiliza a linguagem html 5 e css3, além disso é preciso baixar as imagens nos issues em uma pasta junto aos códigos para que o site funcione corretamente
+O site foi desenvolvido em HTML5 e CSS3. Além disso, é necessário baixar as imagens disponíveis nos issues e salvá-las em uma pasta junto aos arquivos de código para que o site funcione corretamente.
